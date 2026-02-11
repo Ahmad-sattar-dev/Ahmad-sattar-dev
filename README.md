@@ -24,8 +24,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ahmad-sattar-dev&show_icons=true&theme=tokyonight&count_private=true" />
-
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ahmad-sattar-dev&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
 <p align="center">

@@ -24,7 +24,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-sattar-dev&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-sattar-dev&theme=tokyonight&cache_seconds=60" />
 </p>
 
 ## 📫 Connect With Me

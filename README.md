@@ -24,7 +24,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ahmad-sattar-dev&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ahmad-sattar-dev&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-sattar-dev&layout=compact&theme=tokyonight" />
+ <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ahmad-sattar-dev&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" />
 </p>
 
 ## 📫 Connect With Me

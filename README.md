@@ -43,6 +43,6 @@
 
 ## 📈 Contribution Graph
 
-![Snake animation](https://github.com/Ahmad-sattar-dev/Ahmad-sattar-dev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Ahmad-sattar-dev/Ahmad-sattar-dev/output/github-contribution-grid-snake.svg)
 
 

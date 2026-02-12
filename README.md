@@ -39,8 +39,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmad-sattar-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-sattar-dev&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ahmad-sattar-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ahmad-sattar-dev&theme=tokyonight&langs_count=8" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">

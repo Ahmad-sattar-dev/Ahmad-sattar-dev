@@ -1,4 +1,4 @@
-# Hi, I'm Ahmad Sattar Dev 👋
+# Hi, I'm Ahmad Sattar 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;React+%7C+Next.js+%7C+Node.js;Ruby+on+Rails+%7C+GraphQL;AWS+%7C+DynamoDB+%7C+PostgreSQL;Building+Scalable+Web+Applications" />

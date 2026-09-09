@@ -17,14 +17,14 @@
 
 ## 👨‍💻 About
 
-> Software engineer with **4+ years** of experience specializing in scalable web applications.
-> Currently at **[Hydrasoft](https://www.hydrasoft.io)**, working across React/Next.js frontends,
-> Node.js & Rails services, and AWS serverless infrastructure.
+> Principal Software Engineer with **6+ years** of experience specializing in Building and maintaining Scalable Web Applications.
+> Currently at **[Hydrasoft](https://www.hydrasoft.io)**, working across React/Next.js, Views, frontends,
+> Node.js & Ruby on Rails services, and AWS serverless infrastructure.
 
 ```yaml
 name:      Ahmad Sattar
 role:      Full-Stack Engineer @ Hydrasoft
-focus:     Scalable web apps · multi-tenant platforms · GraphQL APIs
+focus:     Scalable web apps · multi-tenant platforms · GraphQL APIs, Postgresql, Mysql
 strengths: [ React, Next.js, TypeScript, Node.js, Rails, GraphQL, AWS ]
 learning:  [ AI integration, Cloud architecture ]
 open_to:   Collaboration on open-source projects
